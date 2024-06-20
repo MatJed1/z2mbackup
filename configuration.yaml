@@ -1,0 +1,172 @@
+homeassistant: true
+permit_join: false
+mqtt:
+  base_topic: zigbee2mqtt
+  server: mqtt://192.168.1.234
+  user: matjed
+  password: superpower95
+serial:
+  port: /dev/ttyACM0
+  adapter: ember
+frontend: true
+devices:
+  '0x54ef44100044919d':
+    friendly_name: Back Kitchen
+    state_action: true
+  '0x00158d0008d0801f':
+    friendly_name: Back Kitchen Sensor
+  '0x00158d0007ec9e94':
+    friendly_name: Living Room Left Switch
+    legacy: false
+  '0x00158d000842679a':
+    friendly_name: Indoor Kitchen
+    legacy: false
+  '0x00158d0008e1206f':
+    friendly_name: Indoor Kitchen Sensor
+  '0x00158d0007e53fd9':
+    friendly_name: Living Room Right Switch
+    legacy: false
+  '0x00158d0008e1206e':
+    friendly_name: Indoor Kitchen Sink Sensor
+  '0x00158d000796274c':
+    friendly_name: TV Area
+    legacy: false
+  '0x00158d0007e53fb0':
+    friendly_name: Ameerul Room
+    legacy: false
+  '0x54ef4410006b5615':
+    friendly_name: Mama Room
+    state_action: true
+  '0x00158d0008003458':
+    friendly_name: Upstairs Area
+    legacy: false
+  '0x00158d0007ec9e5e':
+    friendly_name: Anis Room
+    legacy: false
+  '0x00158d0008e12066':
+    friendly_name: Front Entrance sensor
+  '0x00158d0008dfb391':
+    friendly_name: Back Door Kitchen Sensor
+  '0xa4c1387bacfd6667':
+    friendly_name: Indoor Kitchen Table Fan
+  '0xa4c138886ed05f18':
+    friendly_name: TV Area Light
+    state_action: true
+  '0xa4c13877715f1518':
+    friendly_name: Yazeed Side Light
+    state_action: true
+  '0xa4c1387fa3221b79':
+    friendly_name: Ayah Side Light
+    state_action: true
+  '0xa4c138242f67f850':
+    friendly_name: Ameerul Aircond
+  '0xa4c1388110c8ef19':
+    friendly_name: Anis Aircond
+  '0xa4c138a8cc6d8b7c':
+    friendly_name: Ameerul PC
+  '0xa4c138fe3ee1809d':
+    friendly_name: Ubat Nyamuk Ayah
+  '0xa4c138ff5d3fff82':
+    friendly_name: Ubat Nyamuk TV
+  '0xa4c13869324ef4cb':
+    friendly_name: TV Area Standing Fan
+  '0xa4c1384e36667244':
+    friendly_name: Mama PC
+  '0xa4c13815f377e3ce':
+    friendly_name: Mama Lampu Kelip2
+  '0xa4c138b731637e57':
+    friendly_name: Mama Ubat Nyamuk
+  '0xa4c138cff56bcfae':
+    friendly_name: Water fountain
+  '0xa4c1386ba634af3c':
+    friendly_name: Mama Door Lamp
+    state_action: true
+  '0xa4c1385c2eb14912':
+    friendly_name: Mama Makeup Lamp
+    state_action: true
+  '0xa4c1380f603a3950':
+    friendly_name: Mama Main Lamp
+    state_action: true
+  '0x00158d00090ecc58':
+    friendly_name: Mama Toilet
+    state_action: true
+  '0x00158d000800342f':
+    friendly_name: Yazeed Room
+    legacy: false
+  '0xa4c1382c9fe216a7':
+    friendly_name: Ubat Nyamuk Yazeed
+  '0x00158d0009e01978':
+    friendly_name: Indoor Kitchen Fan Button
+    legacy: false
+  '0x00158d0009dfac61':
+    friendly_name: Yazeed Room Wireless Button
+    legacy: false
+  '0x00158d0009ee2aee':
+    friendly_name: TV Area Button
+    legacy: false
+  '0x00158d0009ee2ade':
+    friendly_name: Mama Button
+    legacy: false
+  '0x00158d0009ee2c17':
+    friendly_name: Yazeed Light Brightness Button
+    legacy: false
+  '0x00158d0009ee30cc':
+    friendly_name: Ayah Button
+    legacy: false
+  '0x00158d0009cc28a0':
+    friendly_name: Indoor Kitchen sensor 2
+  '0x00158d00082feb2b':
+    friendly_name: Mama Sensor
+  '0xa4c1386e4bb5552e':
+    friendly_name: Yazeed Lamp
+    state_action: true
+  '0xa4c138894a81e897':
+    friendly_name: Server
+    state_action: true
+  '0xa4c13864b486d1bb':
+    friendly_name: Anis Light
+    state_action: true
+  '0xa4c13802d620ad13':
+    friendly_name: Kelip2 Living Room
+  '0xa4c138f1c7563931':
+    friendly_name: Living Room Kitchen Table Fan
+  '0xa4c13870d5d83751':
+    friendly_name: Yazeed Exhaust Fan
+    state_action: true
+  '0x00158d0009eeed38':
+    friendly_name: TV Area Button 2
+    legacy: false
+  '0x00158d0009eee9b0':
+    friendly_name: Mama Button 2
+    legacy: false
+  '0x00158d0009eee943':
+    friendly_name: Ameerul Button
+    legacy: false
+  '0xe8e07efffef70c5b':
+    friendly_name: Yazeed Blind
+groups: {}
+advanced:
+  log_level: info
+  network_key:
+    - 170
+    - 195
+    - 136
+    - 49
+    - 218
+    - 189
+    - 75
+    - 71
+    - 52
+    - 156
+    - 218
+    - 3
+    - 200
+    - 131
+    - 149
+    - 23
+  homeassistant_legacy_entity_attributes: false
+  legacy_api: false
+  legacy_availability_payload: false
+availability: true
+device_options:
+  legacy: false

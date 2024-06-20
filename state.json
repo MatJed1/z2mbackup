@@ -1,0 +1,419 @@
+{
+    "0x00158d0009eee943": {
+        "voltage": 2985,
+        "battery": 90,
+        "device_temperature": 38,
+        "power_outage_count": 21,
+        "linkquality": 255
+    },
+    "0x00158d000800342f": {
+        "operation_mode_right": "control_right_relay",
+        "state_right": "OFF",
+        "state_left": "ON",
+        "operation_mode_left": "decoupled",
+        "linkquality": 128
+    },
+    "0xa4c1386e4bb5552e": {
+        "color_mode": "color_temp",
+        "linkquality": 144,
+        "state": "ON",
+        "color_temp": 187,
+        "brightness": 216,
+        "color": {
+            "x": 0.3362,
+            "y": 0.3443,
+            "hue": 49,
+            "saturation": 15,
+            "h": 49,
+            "s": 15
+        }
+    },
+    "0x00158d000842679a": {
+        "state": "ON",
+        "linkquality": 255
+    },
+    "0x00158d0009dfac61": {
+        "linkquality": 252,
+        "voltage": 3005,
+        "battery": 100,
+        "device_temperature": 35,
+        "power_outage_count": 27
+    },
+    "0x00158d0009ee2c17": {
+        "linkquality": 255,
+        "voltage": 3025,
+        "battery": 100,
+        "device_temperature": 30,
+        "power_outage_count": 13
+    },
+    "0x00158d000796274c": {
+        "state_left": "ON",
+        "state_right": "ON",
+        "operation_mode_left": "decoupled",
+        "linkquality": 172
+    },
+    "0xa4c138886ed05f18": {
+        "color_mode": "color_temp",
+        "brightness": 102,
+        "state": "OFF",
+        "color_temp": 357,
+        "linkquality": 164,
+        "color": {
+            "x": 0.4519,
+            "y": 0.4086,
+            "hue": 33,
+            "saturation": 80,
+            "h": 33,
+            "s": 80
+        }
+    },
+    "0xa4c138f1c7563931": {
+        "state": "ON",
+        "energy": 453.43,
+        "power": 0,
+        "current": 0,
+        "voltage": 242,
+        "countdown": 0,
+        "power_outage_memory": "restore",
+        "indicator_mode": "off/on",
+        "child_lock": "UNLOCK",
+        "linkquality": 136
+    },
+    "0xa4c13869324ef4cb": {
+        "energy": 258.15,
+        "voltage": 241,
+        "state": "OFF",
+        "countdown": 0,
+        "power_outage_memory": "restore",
+        "indicator_mode": "off/on",
+        "child_lock": "UNLOCK",
+        "power": 0,
+        "current": 0,
+        "linkquality": 152
+    },
+    "0xa4c1382c9fe216a7": {
+        "state": "OFF",
+        "energy": 8.05,
+        "current": 0,
+        "voltage": 243,
+        "countdown": 0,
+        "power_outage_memory": "off",
+        "indicator_mode": "off/on",
+        "child_lock": "UNLOCK",
+        "power": 0,
+        "linkquality": 108
+    },
+    "0x00158d0009ee2aee": {
+        "linkquality": 152,
+        "voltage": 3015,
+        "battery": 100,
+        "device_temperature": 36,
+        "power_outage_count": 60
+    },
+    "0x54ef4410006b5615": {
+        "device_temperature": 30,
+        "power_outage_count": 1,
+        "state_left": "OFF",
+        "state_center": "ON",
+        "state_right": "ON",
+        "operation_mode_center": "decoupled",
+        "operation_mode_right": "decoupled",
+        "linkquality": 172
+    },
+    "0x00158d00090ecc58": {
+        "state_right": "ON",
+        "power": 0.56,
+        "device_temperature": 35,
+        "power_outage_count": 31,
+        "state": "OFF",
+        "energy": 46.16,
+        "consumption": 46.16249084472656,
+        "linkquality": 168,
+        "state_left": "OFF",
+        "operation_mode_right": "decoupled"
+    },
+    "0xa4c1386ba634af3c": {
+        "color_mode": "color_temp",
+        "state": "OFF",
+        "brightness": 115,
+        "color_temp": 357,
+        "linkquality": 108,
+        "color": {
+            "x": 0.4519,
+            "y": 0.4086,
+            "hue": 33,
+            "saturation": 80,
+            "h": 33,
+            "s": 80
+        }
+    },
+    "0xa4c1385c2eb14912": {
+        "color_mode": "color_temp",
+        "state": "OFF",
+        "linkquality": 108,
+        "brightness": 51,
+        "color_temp": 244,
+        "color": {
+            "x": 0.3766,
+            "y": 0.3743,
+            "hue": 41,
+            "saturation": 47,
+            "h": 41,
+            "s": 47
+        }
+    },
+    "0xa4c1380f603a3950": {
+        "color_mode": "color_temp",
+        "state": "OFF",
+        "color_temp": 244,
+        "linkquality": 136,
+        "brightness": 3
+    },
+    "0x00158d0008003458": {
+        "state_right": "OFF",
+        "linkquality": 112,
+        "state_left": "OFF"
+    },
+    "0xa4c138242f67f850": {
+        "state": "ON",
+        "energy": 1130.74,
+        "current": 0.06,
+        "voltage": 240,
+        "countdown": 0,
+        "power_outage_memory": "on",
+        "indicator_mode": "off/on",
+        "child_lock": "UNLOCK",
+        "power": 0,
+        "linkquality": 180
+    },
+    "0xa4c13815f377e3ce": {
+        "voltage": 240,
+        "linkquality": 112,
+        "state": "OFF",
+        "energy": 12.66,
+        "power": 0,
+        "current": 0,
+        "countdown": 0
+    },
+    "0x00158d0007e53fb0": {
+        "state_right": "OFF",
+        "linkquality": 208,
+        "state_left": "ON"
+    },
+    "0xa4c1384e36667244": {
+        "power": 47,
+        "current": 0.34,
+        "voltage": 239,
+        "state": "ON",
+        "countdown": 0,
+        "power_outage_memory": "on",
+        "indicator_mode": "off/on",
+        "child_lock": "UNLOCK",
+        "linkquality": 156,
+        "energy": 126.55
+    },
+    "0x00158d0009ee2ade": {
+        "linkquality": 136,
+        "voltage": 3005,
+        "battery": 100,
+        "device_temperature": 35,
+        "power_outage_count": 50
+    },
+    "0x00158d0009eee9b0": {
+        "linkquality": 136,
+        "voltage": 3025,
+        "battery": 100,
+        "device_temperature": 35,
+        "power_outage_count": 18
+    },
+    "0x54ef44100044919d": {
+        "device_temperature": 38,
+        "power_outage_count": 1,
+        "state_left": "OFF",
+        "state_center": "OFF",
+        "state_right": "ON",
+        "linkquality": 168
+    },
+    "0xa4c1387bacfd6667": {
+        "voltage": 242,
+        "state": "OFF",
+        "countdown": 0,
+        "power_outage_memory": "on",
+        "indicator_mode": "off/on",
+        "child_lock": "UNLOCK",
+        "power": 0,
+        "current": 0,
+        "linkquality": 88,
+        "energy": 48.23
+    },
+    "0x00158d0008e1206f": {
+        "occupancy": false,
+        "illuminance": 41,
+        "illuminance_lux": 41,
+        "linkquality": 176,
+        "voltage": 3035,
+        "battery": 100,
+        "device_temperature": 34,
+        "power_outage_count": 32
+    },
+    "0x00158d0009cc28a0": {
+        "occupancy": false,
+        "illuminance": 60,
+        "illuminance_lux": 60,
+        "linkquality": 144,
+        "voltage": 3035,
+        "battery": 100,
+        "device_temperature": 35,
+        "power_outage_count": 11
+    },
+    "0x00158d0008e1206e": {
+        "occupancy": false,
+        "illuminance": 76,
+        "illuminance_lux": 76,
+        "linkquality": 104,
+        "voltage": 3035,
+        "battery": 100,
+        "device_temperature": 35,
+        "power_outage_count": 23
+    },
+    "0x00158d0008d0801f": {
+        "occupancy": false,
+        "illuminance": 720,
+        "illuminance_lux": 720,
+        "linkquality": 172,
+        "voltage": 3035,
+        "battery": 100,
+        "device_temperature": 38,
+        "power_outage_count": 15
+    },
+    "0xa4c13870d5d83751": {
+        "energy": 7.57,
+        "voltage": 240,
+        "state": "OFF",
+        "countdown": 0,
+        "power_outage_memory": "off",
+        "indicator_mode": "off/on",
+        "child_lock": "UNLOCK",
+        "power": 0,
+        "current": 0,
+        "linkquality": 255
+    },
+    "0xe8e07efffef70c5b": {
+        "running": true,
+        "position": 0,
+        "state": "CLOSE",
+        "linkquality": 224
+    },
+    "0x00158d0009e01978": {
+        "voltage": 3025,
+        "battery": 100,
+        "device_temperature": 34,
+        "power_outage_count": 85,
+        "linkquality": 172
+    },
+    "0x00158d0009eeed38": {
+        "voltage": 3045,
+        "battery": 100,
+        "device_temperature": 35,
+        "power_outage_count": 22,
+        "linkquality": 204
+    },
+    "0xa4c138cff56bcfae": {
+        "energy": 8.6,
+        "voltage": 241,
+        "state": "OFF",
+        "countdown": 0,
+        "power_outage_memory": "off",
+        "indicator_mode": "off/on",
+        "child_lock": "UNLOCK",
+        "power": 0,
+        "current": 0,
+        "linkquality": 192
+    },
+    "0xa4c138fe3ee1809d": {
+        "voltage": 243,
+        "state": "OFF",
+        "current": 0,
+        "countdown": 0,
+        "power_outage_memory": "restore",
+        "indicator_mode": "off/on",
+        "child_lock": "UNLOCK",
+        "power": 0,
+        "linkquality": 148,
+        "energy": 10.28
+    },
+    "0x00158d0007ec9e94": {
+        "state_right": "ON",
+        "operation_mode_right": "decoupled",
+        "linkquality": 152,
+        "state_left": "ON"
+    },
+    "0x00158d0007e53fd9": {
+        "state_left": "ON",
+        "operation_mode_left": "decoupled",
+        "linkquality": 148,
+        "state_right": "OFF"
+    },
+    "0xa4c13877715f1518": {
+        "color_mode": "color_temp",
+        "linkquality": 172,
+        "brightness": 127,
+        "state": "OFF",
+        "color_temp": 194
+    },
+    "0xa4c1387fa3221b79": {
+        "color_mode": "color_temp",
+        "linkquality": 132,
+        "brightness": 127,
+        "state": "OFF",
+        "color_temp": 357
+    },
+    "0x00158d0009ee30cc": {
+        "linkquality": 100,
+        "voltage": 3035,
+        "battery": 100,
+        "device_temperature": 33,
+        "power_outage_count": 122
+    },
+    "0xa4c13802d620ad13": {
+        "voltage": 242,
+        "state": "OFF",
+        "countdown": 0,
+        "power_outage_memory": "off",
+        "indicator_mode": "off/on",
+        "child_lock": "UNLOCK",
+        "power": 0,
+        "current": 0,
+        "linkquality": 88,
+        "energy": 18.27
+    },
+    "0xa4c1388110c8ef19": {
+        "state": "ON",
+        "energy": 1306.94,
+        "voltage": 242,
+        "countdown": 0,
+        "power_outage_memory": "on",
+        "indicator_mode": "off",
+        "child_lock": "UNLOCK",
+        "power": 0,
+        "current": 0,
+        "linkquality": 144
+    },
+    "0x00158d0007ec9e5e": {
+        "state_left": "OFF",
+        "state_right": "OFF",
+        "linkquality": 180
+    },
+    "0xa4c138894a81e897": {
+        "energy": 12.42,
+        "power": 101,
+        "current": 0.6,
+        "voltage": 242,
+        "state": "ON",
+        "countdown": 0,
+        "power_outage_memory": "on",
+        "indicator_mode": "off/on",
+        "child_lock": "UNLOCK",
+        "linkquality": 255
+    }
+}
